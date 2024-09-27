@@ -1,0 +1,2 @@
+streamlit==1.25.0  # Versão mais recente no momento
+Pillow==9.4.0      # Para manipulação de imagens
